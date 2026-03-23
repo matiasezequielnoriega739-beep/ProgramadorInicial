@@ -1,4 +1,8 @@
 Banana 
 Manzanas
 pan 
-gallletas
+galletas
+
+palta 
+naranjas
+melon
