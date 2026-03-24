@@ -3,6 +3,3 @@ Manzanas
 pan 
 galletas
 
-palta 
-naranjas
-melon
